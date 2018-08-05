@@ -23,6 +23,9 @@ pages:
       - Dota 2:
         - 'Informações gerais': 'jogos/dota2/index.md'
         - 'Glossário': 'jogos/dota2/glossario.md'
+      - Team Fortress 2:
+        - 'Informações gerais': 'jogos/tf2/index.md'
+        - 'Glossário': 'jogos/tf2/glossario.md'
   - Apêndice:
       - Produtos disponíveis: 'apendice/produtos-disponiveis.md'
 
